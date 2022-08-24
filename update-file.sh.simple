@@ -1,0 +1,21 @@
+#!/bin/sh
+dirFile=$HOME/codes/dirs.txt
+echo "Reading $dirFile"
+
+
+run_tree() {
+	for i in $(find $1 -type d) 
+	do	
+#		echo $i | awk -F '/public_html' '{print $2 SF "/"}'
+		cd $i && tree -a -h -D -C --du -F -H '.' -L 1 -T "Index of $(echo $i | awk -F '/public_html' '{print $2 SF ""}')" --dirsfirst --noreport --charset utf-8 -I "*.html" | sed -e '/\t<h1>/s/$/\n\t<a class=\"DIR\" href=\"..\/\"><img src=\"https:\/\/t.coe.psu.ac.th\/~6310110533\/assets\/back.gif\">Parent Directory<\/a><br>/' | sed '/\t<p class=\"VERSION\">/,/<\/p>/d' | sed '/ <meta name/,/\$\">/d' | sed '/<style/,/<\/style>/d' | sed '/title>/s/$/\n <link rel=\"icon\" href=\"https:\/\/t.coe.psu.ac.th\/~6310110533\/assets\/cat-logo.png\" type=\"image\/x-icon\">\n <link rel=\"stylesheet\" href=\"https:\/\/t.coe.psu.ac.th\/~6310110533\/assets\/style.css\">/' | sed '/<a class=\"NORM\" href=\".\">.<\/a>/d' > index.html
+	done
+}
+
+
+while IFS= read -r line
+do
+#	echo "$line"
+	run_tree $HOME/public_html/$line
+done < "$dirFile"
+
+echo "Updated files indexing."

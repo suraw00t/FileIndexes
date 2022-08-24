@@ -1,0 +1,9 @@
+/home/6310110533/codes/assets/templates
+└── [4.8K Apr 23 18:00]  base
+    ├── [ 387 Apr 23 17:22]  base-php.php
+    ├── [  18 Apr 22 22:53]  body.html
+    ├── [  48 Apr 22 21:52]  bottom.html
+    ├── [ 208 Apr 22 21:54]  head.html
+    └── [ 144 Apr 22 20:28]  parent-dir.html
+
+ 8.8K used in 1 directory, 5 files

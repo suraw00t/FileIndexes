@@ -1,0 +1,407 @@
+/home/6310110533/public_html/downloads
+├── [3.9M May 18 11:08]  01-Flat-Remix-Blue_20220304.tar.xz
+├── [7.0M May 18 23:36]  Flat-Remix-Blue-Dark.tar.gz
+├── [514K May 18 23:30]  Flat-Remix-GTK-Blue-Dark.tar.gz
+├── [130M Jun 16 14:51]  PPS.exe
+├── [3.5G Apr 22 20:31]  Study
+│   ├── [ 35M Apr 22 20:31]  2564-Term1
+│   │   ├── [1.0K Jun 17 15:28]  index.php
+│   │   └── [ 35M Apr 22 20:31]  math1
+│   │       ├── [2.7K Jun 17 15:28]  index.php
+│   │       ├── [1.7M Apr  7 14:44]  บทที่ 1 อุปนัยเชิงคณิตศาสตร์.pdf
+│   │       ├── [1.8M Apr  7 14:44]  บทที่ 2 ฟังก์ชันและกราฟ.pdf
+│   │       ├── [4.3M Apr  7 14:44]  บทที่ 3 ลิมิตและความต่อเนื่อง(หนังสือ).pdf
+│   │       ├── [6.3M Apr  7 14:44]  บทที่ 4 อนุพันธ์.pdf
+│   │       ├── [5.8M Apr  7 14:44]  บทที่ 5 ประยุกต์ของอนุพันธ์.pdf
+│   │       ├── [ 11M Apr  7 14:44]  บทที่ 6 ปริพันธ์.pdf
+│   │       └── [4.8M Apr  7 14:44]  บทที่ 7 ประยุกต์ของปริพันธ์จำกัดเขต.pdf
+│   ├── [1.7G May 13 14:20]  2564-Term2
+│   │   ├── [1.3G Apr 22 20:31]  BE
+│   │   │   ├── [261M Feb 14 09:52]  2022-02-14_08-00-35.mkv
+│   │   │   ├── [278M Feb 15 11:57]  2022-02-15_09-59-39.mkv
+│   │   │   ├── [268M Feb 21 09:54]  2022-02-21_08-00-40.mkv
+│   │   │   ├── [258M Feb 22 11:55]  2022-02-22_10-01-29.mkv
+│   │   │   ├── [286M Feb 28 10:04]  2022-02-28_08-00-21.mp4
+│   │   │   └── [1.6K Jun 17 15:28]  index.php
+│   │   ├── [ 46K Apr 22 20:31]  HW_LABs
+│   │   │   ├── [ 40K Apr 22 20:31]  2HB06
+│   │   │   │   ├── [5.4K Apr 22 20:31]  Checkpoint1
+│   │   │   │   │   ├── [ 263 Feb 18 03:15]  checkpoint1.cpp
+│   │   │   │   │   └── [1.1K Jun 17 15:28]  index.php
+│   │   │   │   ├── [5.5K Apr 22 20:31]  Checkpoint2
+│   │   │   │   │   ├── [ 423 Feb 18 03:14]  checkpoint2.cpp
+│   │   │   │   │   └── [1.1K Jun 17 15:28]  index.php
+│   │   │   │   ├── [5.7K Apr 22 20:31]  Checkpoint3
+│   │   │   │   │   ├── [ 556 Feb 18 03:13]  checkpoint3.cpp
+│   │   │   │   │   └── [1.1K Jun 17 15:28]  index.php
+│   │   │   │   ├── [6.0K Apr 22 20:31]  Checkpoint4
+│   │   │   │   │   ├── [ 919 Feb 18 02:46]  checkpoint4.cpp
+│   │   │   │   │   └── [1.1K Jun 17 15:28]  index.php
+│   │   │   │   ├── [6.1K Apr 22 20:31]  Checkpoint5
+│   │   │   │   │   ├── [ 986 Feb 18 02:47]  checkpoint5.cpp
+│   │   │   │   │   └── [1.1K Jun 17 15:28]  index.php
+│   │   │   │   ├── [6.2K Apr 22 20:31]  Checkpoint6
+│   │   │   │   │   ├── [1.0K Feb 18 02:59]  checkpoint6.cpp
+│   │   │   │   │   └── [1.1K Jun 17 15:28]  index.php
+│   │   │   │   └── [1.6K Jun 17 15:28]  index.php
+│   │   │   └── [1.1K Jun 17 15:28]  index.php
+│   │   ├── [ 26M Apr 22 20:31]  JavaOOP
+│   │   │   ├── [1.2K Jun 17 15:28]  index.php
+│   │   │   ├── [ 21M Apr 22 20:31]  pdf
+│   │   │   │   ├── [1.0M Jan 26 13:03]  01-backgnd.pdf
+│   │   │   │   ├── [730K Jan 26 13:03]  02-simple.pdf
+│   │   │   │   ├── [1.3M Jan 26 13:03]  03-classes.pdf
+│   │   │   │   ├── [5.5M Jan 26 13:03]  04-interaction.pdf
+│   │   │   │   ├── [4.0M Jan 26 13:03]  05-grouping.pdf
+│   │   │   │   ├── [1.9M Jan 26 13:03]  06-Libraries.pdf
+│   │   │   │   ├── [4.9M Jan 26 13:03]  07-inherit.pdf
+│   │   │   │   ├── [1.4M Jan 26 13:03]  08-moreInher.pdf
+│   │   │   │   └── [1.9K Jun 17 15:28]  index.php
+│   │   │   └── [5.0M Apr 22 20:31]  ppt
+│   │   │       ├── [238K Jan 26 13:03]  01-backgnd.ppt
+│   │   │       ├── [233K Jan 26 13:03]  02-simple.ppt
+│   │   │       ├── [402K Jan 26 13:03]  03-classes.ppt
+│   │   │       ├── [894K Jan 26 13:03]  04-interaction.ppt
+│   │   │       ├── [938K Jan 26 13:03]  05-grouping.ppt
+│   │   │       ├── [319K Jan 26 13:03]  06-Libraries.ppt
+│   │   │       ├── [1.6M Jan 26 13:03]  07-inherit.ppt
+│   │   │       ├── [426K Jan 26 13:03]  08-moreInher.ppt
+│   │   │       └── [1.9K Jun 17 15:28]  index.php
+│   │   ├── [ 79M Apr 22 20:31]  Statics
+│   │   │   ├── [1.6M Mar 30 21:35]  1.02 a Chapter 2 Two D.ppt
+│   │   │   ├── [1.4M Mar 30 21:35]  1.02 b Chapter 2 Three D Complete.ppt
+│   │   │   ├── [900K Mar 30 21:35]  1.03 a Chapter 3_Moment.ppt
+│   │   │   ├── [820K Mar 30 21:35]  1.03 b Chapter 3_Couple.pdf
+│   │   │   ├── [796K Mar 30 21:35]  1.03 c Chapter 3_Equivalence.ppt
+│   │   │   ├── [973K Mar 30 21:35]  1.03 d Chapter 3_Equilibrium.ppt
+│   │   │   ├── [876K Mar 30 21:35]  1.04 Chapter 4 Three D July 12th 2010.ppt
+│   │   │   ├── [502K Mar 30 21:35]  1.05 Chapter 5 Frames.ppt
+│   │   │   ├── [727K Mar 30 21:35]  1.05 Chapter 5 Trusses_Joints.ppt
+│   │   │   ├── [295K Mar 30 21:35]  1.05 Chapter 5 Trusses_Sections.ppt
+│   │   │   ├── [1.0M Mar 30 21:35]  1.06 Chap 6 Friction Slopes & Wedges.ppt
+│   │   │   ├── [ 33M Mar 30 21:35]  1.07 a Chap 7 Centroid.ppt
+│   │   │   ├── [ 36M Mar 30 21:35]  1.08 a Chap 8 Moment of Inertia.ppt
+│   │   │   ├── [3.2K Jun 17 15:28]  index.php
+│   │   │   ├── [4.6K Apr 22 20:31]  video
+│   │   │   │   └── [ 610 Jun 17 15:28]  index.php
+│   │   │   └── [206K Mar 30 21:36]  แผนการสอน-65.pdf
+│   │   ├── [102M May 13 14:20]  Tina90-TIen.9.3.200.277.zip
+│   │   ├── [ 76M Apr 22 20:31]  datacommu
+│   │   │   ├── [ 65M Jan 28 16:36]  FIFTH_EDITION_Data_Communications_AND_Ne.pdf
+│   │   │   ├── [1.5M Jan 28 16:36]  chapter1-Introduction.pdf
+│   │   │   ├── [2.2M Jan 28 16:36]  chapter2-TransmissionMedia.pdf
+│   │   │   ├── [1.9M Jan 28 16:36]  chapter3-CommunicationSignals.pdf
+│   │   │   ├── [1.4M Jan 28 16:36]  chapter4-DigitalTransmission.pdf
+│   │   │   ├── [1.7M Jan 28 16:36]  chapter5-AnalogTransmission.pdf
+│   │   │   ├── [808K Jan 28 16:36]  chapter7-Switching.pdf
+│   │   │   ├── [774K Jan 28 16:36]  courseOutline.pdf
+│   │   │   └── [2.1K Jun 17 15:28]  index.php
+│   │   ├── [6.7K Apr 22 20:31]  discrete
+│   │   │   ├── [1.6K Apr  1 05:38]  NestSquares.java
+│   │   │   └── [1.1K Jun 17 15:28]  index.php
+│   │   ├── [2.2K Jun 17 15:28]  index.php
+│   │   ├── [396K Apr 22 20:31]  math2
+│   │   │   ├── [1.1K Jun 17 15:28]  index.php
+│   │   │   └── [390K Mar 30 21:36]  workbook.pdf
+│   │   ├── [5.3M Apr 22 20:31]  mechanics
+│   │   │   ├── [1.1K Jun 17 15:28]  index.php
+│   │   │   └── [5.3M Apr 22 20:31]  ซ้อมมือ
+│   │   │       ├── [984K Mar  4 23:28]  Final-Online-april2020-Soln.pdf
+│   │   │       ├── [500K Mar  4 23:28]  Final2018.pdf
+│   │   │       ├── [1022K Mar  4 23:28]  IMG_0029.PNG
+│   │   │       ├── [852K Mar  4 23:28]  Mechanics_Final61_solution.pdf
+│   │   │       ├── [2.5K Jun 17 15:28]  index.php
+│   │   │       ├── [297K Mar  4 23:28]  ข้อ 3 Final EM1 61-2.jpg
+│   │   │       ├── [241K Mar  4 23:28]  ข้อ 4Final EM1 61-2.jpg
+│   │   │       ├── [421K Mar  4 23:28]  ข้อที่ 2-ลิ่ม-online-เฉลย.pdf
+│   │   │       ├── [264K Mar  4 23:28]  เฉลยข้อสอบปลายภาคปี 61.pdf
+│   │   │       └── [883K Mar  4 23:28]  เฉลยปลายภาคปี 61.pdf
+│   │   ├── [539K Jan 28 16:37]  myschedule1641266426186.png
+│   │   └── [ 85M Apr 22 20:31]  stat
+│   │       ├── [ 76M Apr 22 20:31]  Exams
+│   │       │   ├── [430K Feb 22 21:02]  240-212-Final-EXAM62-1.pdf
+│   │       │   ├── [417K Feb 22 21:03]  240-212-Final-EXAM62-2.pdf
+│   │       │   ├── [297K Feb 22 21:02]  240-212-Final-EXAM63-1.pdf
+│   │       │   ├── [330K Feb 22 21:03]  240-212-Final-EXAM63-2.pdf
+│   │       │   ├── [171K Mar  7 16:11]  240-212-Final-EXAM64-1.pdf
+│   │       │   ├── [278K Feb  9 01:21]  240-212-MID-EXAM60-2.pdf
+│   │       │   ├── [465K Feb  9 01:21]  240-212-MID-EXAM61-2.pdf
+│   │       │   ├── [409K Feb  9 01:21]  240-212-MID-EXAM62-1.pdf
+│   │       │   ├── [296K Feb  9 01:21]  240-212-MID-EXAM62-2.pdf
+│   │       │   ├── [323K Feb  9 01:21]  240-212-MID-EXAM63-1-solution.pdf
+│   │       │   ├── [249K Feb  9 01:21]  240-212-MID-EXAM63-1.pdf
+│   │       │   ├── [229K Feb  9 01:21]  240-212-MID-EXAM63-2.pdf
+│   │       │   ├── [190K Feb 22 21:02]  242-212-Final-EXAM60-1.pdf
+│   │       │   ├── [493K Feb 22 21:03]  242-212-Final-EXAM61-1.pdf
+│   │       │   ├── [489K Feb 22 21:03]  242-212-Final-EXAM61-2.pdf
+│   │       │   ├── [353K Feb  9 01:21]  242-212-MID-EXAM60-1.pdf
+│   │       │   ├── [2.6M Feb  9 01:21]  exer-stat-2562-2563-ตรวจแล้ว.pdf
+│   │       │   ├── [3.8K Jun 17 15:28]  index.php
+│   │       │   ├── [ 61M Feb 22 17:10]  stat_book.pdf
+│   │       │   ├── [7.1M Feb 22 22:36]  stat_book_v2.pdf
+│   │       │   └── [ 12K Feb 22 22:32]  t-table1.pdf
+│   │       ├── [8.8M Apr 22 20:31]  Slides
+│   │       │   ├── [458K Feb  9 01:21]  Review 1-Introduction to Probability.pdf
+│   │       │   ├── [1.8M Feb  9 01:21]  Review 2-Probability.pdf
+│   │       │   ├── [1.2M Feb  9 01:21]  Review 3-Discrete Random Variables.pdf
+│   │       │   ├── [1.7M Feb  9 01:21]  Review 4-Continuous Random Variables.pdf
+│   │       │   ├── [966K Feb  9 01:21]  Review 5-Stochastic Processes.pdf
+│   │       │   ├── [921K Feb  9 01:21]  Review 6-Sampling Distribution.pdf
+│   │       │   ├── [1.0M Feb  9 01:21]  Review 7-Tests of Hypotheses.pdf
+│   │       │   ├── [961K Feb  9 01:21]  Review 8-Simple linear regression and correlation.pdf
+│   │       │   └── [2.3K Jun 17 15:28]  index.php
+│   │       └── [1.2K Jun 17 15:28]  index.php
+│   ├── [1.8G Apr 22 20:31]  2565-Term1
+│   │   ├── [120M Apr 22 20:31]  MathCom
+│   │   │   ├── [ 76M Jul 12  2021]  Calculus 3rd edition John Rogawski.pdf
+│   │   │   ├── [1.2K Jun 17 15:28]  index.php
+│   │   │   └── [ 44M Apr 22 20:31]  materials
+│   │   │       ├── [4.7M Apr 20 13:43]  Ch1 Multiple integral_Part1.pdf
+│   │   │       ├── [1.0M Apr 20 13:42]  Ch1 Multiple integral_Part1_Extra.pdf
+│   │   │       ├── [2.7M Apr 20 13:42]  Ch1 Multiple integral_Part2.pdf
+│   │   │       ├── [8.3M Apr 20 13:43]  Ch2 Vector calculus.pdf
+│   │   │       ├── [3.0M Apr 20 13:43]  Ch2 Vector-valued functions.pdf
+│   │   │       ├── [5.6M Apr 20 13:43]  Ch3 Line and Surface Integrals Part1.pdf
+│   │   │       ├── [1.1M Apr 20 13:43]  Ch3 Line and Surface Integrals Part2.pdf
+│   │   │       ├── [7.7M Apr 20 13:44]  Ch_15_MultipleIntegration-Calculus- Early Transcendentals, 3rd Edition.pdf
+│   │   │       ├── [209K Apr 20 13:43]  Chapter_six.pdf
+│   │   │       ├── [272K Apr 20 13:43]  Exercise_1_VectorFn.pdf
+│   │   │       ├── [199K Apr 20 13:43]  HW1.pdf
+│   │   │       ├── [105K Apr 20 13:43]  L13-340.pdf
+│   │   │       ├── [2.1M Apr 20 13:43]  chapter4.pdf
+│   │   │       ├── [7.4M Apr 20 13:43]  chapter5_1.pdf
+│   │   │       └── [3.0K Jun 17 15:28]  index.php
+│   │   ├── [1.6G Apr 22 20:31]  database
+│   │   │   ├── [105M Sep 15  2021]  Lesson10_Lecture.mp4
+│   │   │   ├── [ 91M Jun 22  2021]  Lesson1_Lecture.mp4
+│   │   │   ├── [ 61M Jun 26  2021]  Lesson2_Lecture_1.mp4
+│   │   │   ├── [ 48M Jun 29  2021]  Lesson2_Lecture_2.mp4
+│   │   │   ├── [ 31M Jun 30  2021]  Lesson2_Lecture_3.mp4
+│   │   │   ├── [ 16M Jul  2  2021]  Lesson2_Lecture_4.mp4
+│   │   │   ├── [ 61M Jul  6  2021]  Lesson3_Lecture_1.mp4
+│   │   │   ├── [ 78M Jul  6  2021]  Lesson3_Lecture_2.mp4
+│   │   │   ├── [ 54M Jul  9  2021]  Lesson3_Lecture_3.mp4
+│   │   │   ├── [139M Jul 12  2021]  Lesson3_Lecture_4.mp4
+│   │   │   ├── [ 85M Jul 14  2021]  Lesson3_Lecture_5.mp4
+│   │   │   ├── [114M Jul 31  2021]  Lesson4_Lecture.mp4
+│   │   │   ├── [ 75M Aug 22  2021]  Lesson5_Lecture.mp4
+│   │   │   ├── [160M Aug 29  2021]  Lesson6_Lecture.mp4
+│   │   │   ├── [343M Sep  6  2021]  Lesson7_Lecture.mp4
+│   │   │   ├── [121M Sep  9  2021]  Lesson8_Lecture.mp4
+│   │   │   ├── [ 95M Sep 11  2021]  Lesson9_Lecture.mp4
+│   │   │   └── [3.3K Jun 17 15:28]  index.php
+│   │   ├── [1.3K Jun 17 15:28]  index.php
+│   │   └── [ 14M Apr 22 20:31]  wireless
+│   │       ├── [2.8M Apr 20 11:44]  chapter4-WPAN.pdf
+│   │       ├── [3.0M Apr 20 11:44]  chapter5-WLAN.pdf
+│   │       ├── [1.6M Apr 20 11:44]  chapter6-WMAN.pdf
+│   │       ├── [2.9M Apr 20 11:44]  chapter7-WWAN.pdf
+│   │       ├── [2.3M Apr 20 11:44]  chapter8-mobility.pdf
+│   │       ├── [492K Apr 20 11:44]  classActCh1.pdf
+│   │       ├── [493K Apr 20 11:44]  classActCh2.pdf
+│   │       ├── [504K Apr 20 11:44]  classActCh3.pdf
+│   │       ├── [498K Apr 20 11:44]  classActCh5.pdf
+│   │       └── [2.1K Jun 17 15:28]  index.php
+│   ├── [4.6K Apr 22 20:31]  2565-Term2
+│   │   └── [ 582 Jun 17 15:28]  index.php
+│   └── [1.4K Jun 17 15:28]  index.php
+├── [1.5G May 31 13:53]  all
+│   ├── [3.3M May 31 13:52]  8821au-20210708-main.zip
+│   ├── [106K Apr 30 21:30]  BlackHole2ch.v0.2.10.pkg
+│   ├── [562M Apr 30 21:30]  Docker.dmg
+│   ├── [3.8M Jan 26 13:22]  Fliqlo 1.8.4.dmg
+│   ├── [347M May  1 19:30]  FreeBSD-13.0-RELEASE-amd64-bootonly.iso
+│   ├── [ 18M Jul  3  2021]  GameDefinition.bak
+│   ├── [ 16M Jul  9  2021]  LinuxIDE.zip
+│   ├── [ 13M May 13 14:20]  RealVNC Enterprise 5.2.2.rar
+│   ├── [638K Apr 30 21:30]  The Farmer.swf
+│   ├── [4.7M Sep 11  2021]  UTD-NGFW-Workshop-Guide-4.0-20210728.pdf
+│   ├── [3.4M May 13 14:20]  Winrar 64 bit.exe
+│   ├── [ 333 Apr 30 11:31]  autologin.py
+│   ├── [110K Dec 31  2017]  evoluted-directory-listing-script-4.0.5.zip
+│   ├── [3.3K Jun 17 15:28]  index.php
+│   ├── [1.2K May  2 20:24]  kong.zsh-theme
+│   ├── [561M Apr 22 20:31]  mathlab
+│   │   ├── [1.4K Jun 17 15:28]  index.php
+│   │   ├── [178M Apr  2 00:56]  matlab_R2022a_glnxa64.zip
+│   │   ├── [174M Apr  2 00:56]  matlab_R2022a_maci64.dmg.zip
+│   │   └── [209M Apr  2 00:56]  matlab_R2022a_win64.exe
+│   ├── [ 13M Apr 29 23:57]  san-francisco.zip
+│   ├── [ 124 Apr 30 11:31]  script.py
+│   └── [ 12M May 14 17:10]  somstorePHPweb.zip
+├── [ 69M May 31 13:53]  deb
+│   ├── [471K May  2 16:18]  Minecraft.deb
+│   ├── [1.6K Jun 17 15:28]  index.php
+│   ├── [ 688 May  1 19:36]  install
+│   ├── [ 41K May  2 16:18]  libpangox-1.0-0_0.0.2-5.1_amd64.deb
+│   ├── [ 69M May  1 19:30]  mongodb-compass_1.31.2_amd64.deb
+│   └── [ 14K May 27 17:23]  virtualbox-ext-pack_6.1.34-1_all.deb
+├── [1.2M Jun 17 15:28]  foo
+│   ├── [ 931 Jun 14 17:08]  Distribution
+│   ├── [622K Jun 14 17:08]  MSDisplay_App.pkg
+│   │   ├── [ 35K Jun 14 17:08]  Bom
+│   │   ├── [ 312 Jun 14 17:08]  PackageInfo
+│   │   ├── [581K Jun 14 17:08]  Payload
+│   │   ├── [ 197 Jun 14 17:08]  Scripts
+│   │   └── [1.4K Jun 17 15:28]  index.php
+│   ├── [ 10K Jun 14 17:08]  Resources
+│   │   ├── [5.1K Jun 14 17:08]  en.lproj
+│   │   │   ├── [   0 Jun 14 17:08]  Localizable.strings
+│   │   │   └── [1.1K Jun 17 15:28]  index.php
+│   │   └── [1.2K Jun 17 15:28]  index.php
+│   ├── [1.4K Jun 17 15:28]  index.php
+│   └── [621K Jun 14 17:08]  untitled folder
+│       ├── [ 35K Jun 14 17:08]  Bom
+│       ├── [ 312 Jun 14 17:08]  PackageInfo
+│       ├── [581K Jun 14 17:08]  Payload
+│       └── [ 197 Jun 14 17:08]  Scripts
+├── [2.0K Jun 17 15:28]  index.php
+└── [849K May 18 23:33]  uOS.tar.gz
+
+ 5.2G used in 40 directories, 218 files/home/6310110533/public_html/ods
+├── [ 25K Apr  2 10:51]  Summit-Git-Repository-all-checked.ods
+├── [1.2K Jun 17 15:28]  index.php
+└── [ 358 Apr  2 11:22]  index.sh
+
+  30K used in 0 directories, 3 files/home/6310110533/public_html/uploads
+├── [127K May 13 00:51]  659752EF-95CF-4002-9949-750EC96EB6EA.jpeg
+├── [448K May 14 22:04]  662E4B86-9BB2-4A9C-A8C4-15B9D0F7B437.jpeg
+├── [176K May 13 00:51]  9F222D6E-4B56-46E4-A5FD-BF118C93566B.jpeg
+├── [317K May 13 00:52]  ECADBF11-27EE-420B-8339-BA6FB8913465.jpeg
+├── [146K Apr 24 20:45]  Screenshot at 2022-04-06 16-01-41.png
+├── [501K Jun  9 15:26]  Screenshot at 2022-05-20 15-52-10.png
+├── [ 28K Jun  9 15:27]  Screenshot at 2022-06-01 15-59-54.png
+├── [5.2K Jun  7 19:25]  Screenshot from 2022-06-07 19-17-00.png
+├── [5.2M May  6 01:21]  VID_117120109_204411_959.mp4
+├── [5.2M May  6 01:23]  VID_117150215_234442_651.mp4
+└── [2.6K Jun 17 15:28]  index.php
+
+  12M used in 0 directories, 11 files/home/6310110533/public_html/knowledges
+├── [5.0G Jun  3 16:58]  Anatomy
+│   ├── [ 20M Nov  1  2020]  Anatomia Color Atlas and Textbook of Human Anatomy Volume 3 2003 Thieme.pdf ( PDFDrive ).pdf
+│   ├── [ 38M Nov  1  2020]  Anatomy & Physiology ( PDFDrive ).pdf
+│   ├── [4.0M Nov  1  2020]  Anatomy & Physiology (slide).pdf
+│   ├── [144M Nov  1  2020]  Anatomy & Physiology Made Incredibly Easy! ( PDFDrive ).pdf
+│   ├── [4.2M Nov  1  2020]  Anatomy & Physiology Workbook.pdf
+│   ├── [ 46M Nov  1  2020]  Anatomy & Physiology vol 2.pdf
+│   ├── [1.7M Nov  1  2020]  Anatomy 101_ From Muscles and Bones to Organs and Systems, Your Guide to How the Human Body Works 2015.pdf
+│   ├── [6.3M Nov  1  2020]  Anatomy and Perspective_ The Fundamentals of Figure Drawing ( PDFDrive ).pdf
+│   ├── [ 28M Nov  1  2020]  Anatomy and Physiology For Dummies 2nd ed. ( PDFDrive ) (1).pdf
+│   ├── [ 28M Oct 30  2020]  Anatomy and Physiology For Dummies 2nd ed. ( PDFDrive ).pdf
+│   ├── [ 19M Nov  1  2020]  Anatomy for the Artist ( PDFDrive ).pdf
+│   ├── [ 10M Nov  1  2020]  Anatomy of the Human Body ( PDFDrive ).pdf
+│   ├── [ 52M Nov  1  2020]  Anatomy of the Spirit_ The Seven Stages of Power and Healing ( PDFDrive ).pdf
+│   ├── [ 21M Nov  1  2020]  Anatomy, Histology, & Cell Biology_ PreTest Self-Assessment &amp ( PDFDrive ).pdf
+│   ├── [ 42M Nov  1  2020]  Anatomy_ A Regional Atlas of the Human Body ( PDFDrive ) (1).pdf
+│   ├── [ 42M Nov  1  2020]  Anatomy_ A Regional Atlas of the Human Body ( PDFDrive ).pdf
+│   ├── [2.1M Nov  1  2020]  Applied Anatomy & Physiology of Yoga • Yoga Synergy.pdf
+│   ├── [293M Nov  1  2020]  Atlas of Human Anatomy  With Student Consult Access, 5th Edition ( PDFDrive ).pdf
+│   ├── [113M Nov  1  2020]  Atlas of Human Anatomy 7th Ed. 2019.pdf
+│   ├── [ 28M Nov  1  2020]  Atlas of Human Anatomy by Netter 5e.pdf
+│   ├── [417M Nov  1  2020]  Atlas of Human Anatomy_ Including Student Consult Interactive Ancillaries and Guides, 6th Ed. 2014.pdf
+│   ├── [6.6M Nov  1  2020]  Atlas of musculoskeletal ultrasound anatomy ( PDFDrive ).pdf
+│   ├── [ 21M Nov  1  2020]  BD Chaurasia's Handbook of General Anatomy ( PDFDrive ).pdf
+│   ├── [ 12M Nov  1  2020]  BD Chaurasia’s Human Anatomy - Head Neck & Brain (Volume 3) ( PDFDrive ).pdf
+│   ├── [ 21M Nov  1  2020]  BD Chaurasia’s Human Anatomy - Lower Limb, Abdomen & Pelvis (Volume 2) ( PDFDrive ).pdf
+│   ├── [ 55M Nov  1  2020]  BRS Gross Anatomy ( PDFDrive ).pdf
+│   ├── [5.0M Nov  1  2020]  Bodyweight Strength Training Anatomy ( PDFDrive ).pdf
+│   ├── [6.8M Nov  1  2020]  Bodyweight Strength Training Anatomy - Sajt u izradi ( PDFDrive ).pdf
+│   ├── [275M Nov  1  2020]  Classic Human Anatomy in Motion_ The Artist's Guide to the Dynamics of Figure Drawing ( PDFDrive ).pdf
+│   ├── [118M Nov  1  2020]  Classic Human Anatomy_ The Artist's Guide to Form, Function, and Movement ( PDFDrive ).pdf
+│   ├── [ 45M Nov  1  2020]  Clinical Anatomy and Physiology for Veterinary Technicians ( PDFDrive ).pdf
+│   ├── [ 30M Nov  1  2020]  Clinical Anatomy_ Applied Anatomy for Students and Junior Doctors ( PDFDrive ).pdf
+│   ├── [125M Nov  1  2020]  Clinical anatomy cases_ an integrated approach with physical examination and medical imaging ( PDFDrive ).pdf
+│   ├── [ 87M Nov  1  2020]  Clinically Oriented Anatomy ( PDFDrive ) (1).pdf
+│   ├── [256M Nov  1  2020]  Clinically Oriented Anatomy ( PDFDrive ).pdf
+│   ├── [ 25M Nov  1  2020]  Color Atlas Cytology, Histology and Microscopic Anatomy.pdf
+│   ├── [182M Nov  1  2020]  Color Atlas of Anatomy_ A Photographic Study of the Human Body, 7th Edition     ( PDFDrive ) (1).pdf
+│   ├── [182M Nov  1  2020]  Color Atlas of Anatomy_ A Photographic Study of the Human Body, 7th Edition     ( PDFDrive ).pdf
+│   ├── [ 24M Nov  1  2020]  Delavier's women's strength training anatomy workouts ( PDFDrive ).pdf
+│   ├── [ 68M Nov  1  2020]  Diagnostic and Surgical Imaging Anatomy_ Knee, Ankle, Foot (Diagnostic & Surgical Imaging Anatomy)   ( PDFDrive ).pdf
+│   ├── [ 73M Nov  1  2020]  Drawing Cutting Edge Anatomy_ The Ultimate Reference for Comic Book Artists ( PDFDrive ).pdf
+│   ├── [154M Nov  1  2020]  Duvernoy's Atlas of the Human Brain Stem and Cerebellum_ High-Field MRI, Surface Anatomy, Internal Structure, Vascularization and 3 D Sectional Anatomy ( PDFDrive ).pdf
+│   ├── [7.9M Feb 11  2021]  Encyclopedia of Human Body Systems ( PDFDrive ).pdf
+│   ├── [ 24M Feb 11  2021]  Essentials of Anatomy and Physiology ( PDFDrive ).pdf
+│   ├── [ 24M Nov  1  2020]  Essentials of Anatomy and Physiology 5th Ed. 2007.pdf
+│   ├── [ 16M Nov  1  2020]  Force.  Drawing Human Anatomy ( PDFDrive ).pdf
+│   ├── [ 37M Nov  1  2020]  Functional Anatomy_ Musculoskeletal Anatomy, Kinesiology, and Palpation for Manual Therapists (LWW Massage Therapy & Bodywork Educational Series) ( PDFDrive ).pdf
+│   ├── [ 71M Nov  1  2020]  Fundamentals of Anatomy and Physiology_ For Nursing and Healthcare Students ( PDFDrive ).pdf
+│   ├── [216M Nov  1  2020]  Grant’s Atlas of Anatomy 14e 2017.pdf
+│   ├── [227M Nov  1  2020]  Gray's Anatomy_ The Anatomical Basis of Clinical Practice, 41e ( PDFDrive ).pdf
+│   ├── [ 15M Nov  1  2020]  HIGH-YIELD_ Gross Anatomy, FIFTH EDITION ( PDFDrive ).pdf
+│   ├── [ 14M Nov  1  2020]  How to Draw Manga, Volume 4_ Bodies & Anatomy ( PDFDrive ).pdf
+│   ├── [ 15M Nov  1  2020]  Human Anatomy, Volume 1_ Upper Limb and Thorax 4th Ed. 2004-6.pdf
+│   ├── [ 63M Nov  1  2020]  Human sectional anatomy _ atlas of body sections, CT and MRI images ( PDFDrive ).pdf
+│   ├── [ 72M Nov  1  2020]  ImagineFX How to Draw and Paint Anatomy vol. 2 ( PDFDrive ).pdf
+│   ├── [ 29M Nov  1  2020]  Netter's concise atlas of orthopaedic anatomy ( PDFDrive ).pdf
+│   ├── [ 11M Nov  1  2020]  Pocket Atlas of Human Anatomy 4th Ed. 2000.pdf
+│   ├── [ 44M Nov  1  2020]  Principles of Anatomy and Physiology (Tortora,Principles of Anatomy and Physiology) ( PDFDrive ).djvu
+│   ├── [ 79M Nov  1  2020]  Principles of Anatomy and Physiology [With A Brief Atlas of the Skeleton, Surface Anatomy,] ( PDFDrive ) (1).pdf
+│   ├── [ 22M Nov  1  2020]  Ross and Wilson ANATOMY and PHYSIOLOGY in Health and Illness Eleventh Edition Anne ( PDFDrive ) (1).pdf
+│   ├── [ 22M Nov  1  2020]  Ross and Wilson ANATOMY and PHYSIOLOGY in Health and Illness Eleventh Edition Anne ( PDFDrive ) (2).pdf
+│   ├── [ 22M Feb 11  2021]  Ross and Wilson ANATOMY and PHYSIOLOGY in Health and Illness Eleventh Edition Anne ( PDFDrive ).pdf
+│   ├── [ 12K Feb 11  2021]  Ross and Wilson Anatomy and Physiology in Health and Illness 12th E ( PDFDrive ).pdf
+│   ├── [ 34M Nov  1  2020]  Science of Yoga_ Understand the Anatomy and Physiology to Perfect Your Practice ( PDFDrive ).pdf
+│   ├── [258M Nov  1  2020]  Snell’s Clinical Anatomy by Regions ( PDFDrive ).pdf
+│   ├── [258M Nov  1  2020]  Snell’s Clinical Anatomy by Regions 10e 2019.pdf
+│   ├── [135M Nov  1  2020]  Sobotta Atlas of Anatomy General Anatomy and Musculoskeletal System ( PDFDrive ).pdf
+│   ├── [ 22M Nov  1  2020]  Strength Training Anatomy - 2nd Edition ( PDFDrive ).pdf
+│   ├── [7.4M Nov  1  2020]  Stretching Anatomy ( PDFDrive ).pdf
+│   ├── [ 45M Nov  1  2020]  Textbook of Anatomy  Abdomen and Lower Limb. ( PDFDrive ).pdf
+│   ├── [10.0M Nov  1  2020]  The Anatomy of Martial Arts_ An Illustrated Guide to the Muscles Used for Each Strike, Kick, and Throw ( PDFDrive ).pdf
+│   ├── [ 24M Nov  1  2020]  The Human Figure (Dover Anatomy for Artists) ( PDFDrive ).pdf
+│   ├── [ 14M Nov  1  2020]  The anatomy of stretching_ your illustrated guide to flexibility and injury rehabilitation ( PDFDrive ).pdf
+│   ├── [ 72M Nov  1  2020]  Thieme atlas of anatomy _ general anatomy and musculoskeletal system _ 1694 Illustrations, 100 Tables ( PDFDrive ).pdf
+│   ├── [2.4M Nov  1  2020]  Understanding the Human Body - An Introduction to Anatomy and physiology 2004.PDF
+│   ├── [7.1M Jan  5  2021]  Workbook to Accompany Understanding Anatomy & Physiology_ A Visual, Auditory, Interactive Approach ( PDFDrive ).pdf
+│   ├── [5.0M Nov  1  2020]  Yoga_Anatomy.pdf
+│   ├── [ 37M Nov  1  2020]  imaginefx_presents_-_how_to_draw_and_paint_anat.pdf
+│   ├── [ 20K Jun 17 15:28]  index.php
+│   └── [ 41M Nov  1  2020]  textbook of anatomy upper limb and thorax ( PDFDrive ).pdf
+├── [2.0G Jun  3 15:57]  Medical
+│   ├── [ 20M Nov  1  2020]  A Short Textbook of Medical Pharmacology.pdf
+│   ├── [ 23M Oct 31  2020]  Anatomy for Plastic Surgery of the Face, Head and Neck .pdf
+│   ├── [182M Apr 10  2021]  Atlas of Human Anatomy, 6th Edition (2014).pdf
+│   ├── [ 27M Nov  1  2020]  BMA Illustrated Medical Dictionary; Essential A–Z quick Reference.pdf
+│   ├── [9.0M Mar 25  2021]  Biomedical Signals and Sensors II.pdf
+│   ├── [ 26M Oct 30  2020]  Brody’s Human Pharmacology_ Mechanism-Based Therapeutics .pdf
+│   ├── [ 40M Apr 10  2021]  Current Medical Diagnosis & Treatment 2019 .pdf
+│   ├── [ 73M Apr 10  2021]  Differential Diagnosis in Internal Medicine_ From Symptom to Diagnosis .pdf
+│   ├── [154M Apr 10  2021]  Encyclopedia of Biodiversity  Encyclopedia of Biodiversity, (7 Volume Set) .pdf
+│   ├── [191M Apr 10  2021]  Encyclopedia of Virology, Five-Volume Set, Volume 1-5, Third Edition .pdf
+│   ├── [1.6M Jan  5  2021]  Energy Medicine_ The Science and Mystery of Healing .pdf
+│   ├── [ 12M Nov  1  2020]  Essentials of Medical Microbiology .pdf
+│   ├── [ 11M Nov  1  2020]  Essentials of Medical Pharmacology, 6th Edition .pdf
+│   ├── [ 36M Apr 10  2021]  Essentials of Medical Pphysiology 6e 2012.pdf
+│   ├── [ 16M Nov  1  2020]  Ganong's Review of Medical Physiology 23rd Ed..pdf
+│   ├── [ 59M Apr 10  2021]  Ganong’s Review of Medical Physiology 26th Ed. 2019.pdf
+│   ├── [ 54M Apr 10  2021]  Guyton and Hall Textbook of Medical Physiology .pdf
+│   ├── [ 16M Feb 12  2021]  Handbook of Signs & Symptoms .pdf
+│   ├── [168M Apr 10  2021]  Hematology_ Basic Principles and Practice .pdf
+│   ├── [ 38M Apr 10  2021]  Illustrated Medical Dictionary; Essential A-Z Quick Reference.pdf
+│   ├── [4.8M Nov  4  2020]  Introduction to Human Nutrition 2nd Edition .pdf
+│   ├── [ 61M Apr 10  2021]  Marks’ Basic Medical Biochemistry_ A Clinical Approach (5th Edition) .pdf
+│   ├── [ 39M Apr 10  2021]  Medical Devices and Human Engineering 4e.pdf
+│   ├── [ 85M Apr 10  2021]  Medical Symptoms_ A Visual Guide_ The Easy Way to Identify Medical Problems .pdf
+│   ├── [ 24M Nov  1  2020]  Mellonis Pocket Medical Dictionary_ Illustrated.pdf
+│   ├── [ 14M Oct 30  2020]  Nutrition and Enhanced Sports Performance_ Muscle Building, Endurance, and Strength .pdf
+│   ├── [ 39M Apr 10  2021]  Occupational Therapy for Physical Dysfunction Seventh Edition .pdf
+│   ├── [ 70M Apr 10  2021]  Pathophysiology of Disease_ An Introduction to Clinical Medicine .pdf
+│   ├── [ 30M Feb 12  2021]  Pocket Medicine_ The Massachusetts General Hospital Handbook of Internal Medicine .pdf
+│   ├── [8.9M Jan  5  2021]  Practical Clinical Biochemistry .pdf
+│   ├── [125M Apr 10  2021]  Principles of Anatomy and Physiology, Thirteenth Edition   .pdf
+│   ├── [ 79M Apr 10  2021]  Principles of Anatomy and Physiology.pdf
+│   ├── [3.2M Nov  1  2020]  Research Methodology in the Medical and Biological Sciences .pdf
+│   ├── [ 87M Apr 10  2021]  Review of Medical Microbiology and Immunology .pdf
+│   ├── [ 22M Oct 30  2020]  Ross and Wilson ANATOMY and PHYSIOLOGY in Health and Illness 11e.pdf
+│   ├── [1.0M Nov  9  2020]  Smart Brain เทคนิคการพัฒนาและดูแลสมอง.pdf
+│   ├── [4.5M Feb 12  2021]  Symptom to Diagnosis_ An Evidence Based Guide .pdf
+│   ├── [ 11M Feb 12  2021]  Symptoms in the Pharmacy_ A Guide to the Management of Common Illnesses .pdf
+│   ├── [ 65M Apr 10  2021]  The Biomedical Engineering Handbook, Third Edition - 3 Volume Set  4e.pdf
+│   ├── [ 24M Nov  1  2020]  Wilson & Gisvold's Textbook of Organic Medicinal and Pharmaceutical Chemistry.pdf
+│   ├── [9.9K Jun 17 15:28]  index.php
+│   ├── [ 25M Nov  1  2020]  medical-microbiology.pdf
+│   └── [ 41M Apr 10  2021]  medical-surgical_nursing-10th-edition-by-brunner-suddarth.pdf
+└── [1.1K Jun 17 15:28]  index.php
+
+ 7.0G used in 2 directories, 124 files
